@@ -44,7 +44,7 @@ If you have questions about contributing, please:
 
 1. Check our [FAQ](./docs/faq.md)
 2. Join our [Discord community](https://discord.gg/nanushi)
-3. Contact us at hello@nanushi.io
+3. Contact us at hello@nanushi.org
 
 ## License
 

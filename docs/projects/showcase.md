@@ -7,7 +7,7 @@
 **Duration**: 6 weeks
 **Tech Stack**: React Native, TypeScript, Node.js, MongoDB
 
-![EcoTracker App](https://nanushi.io/projects/ecotracker/preview.png)
+![EcoTracker App](https://nanushi.org/projects/ecotracker/preview.png)
 
 **Description**:
 Mobile app helping users track and reduce their carbon footprint through daily activities monitoring and eco-friendly suggestions.
@@ -26,7 +26,7 @@ Mobile app helping users track and reduce their carbon footprint through daily a
 - Push notifications
 - Deep linking
 
-[View Case Study →](https://nanushi.io/showcase/ecotracker)
+[View Case Study →](https://nanushi.org/showcase/ecotracker)
 [GitHub Repository →](https://github.com/nanushi-io/ecotracker)
 
 ### 🎮 GameMatch
@@ -34,7 +34,7 @@ Mobile app helping users track and reduce their carbon footprint through daily a
 **Duration**: 6 weeks
 **Tech Stack**: React Native, TypeScript, Firebase
 
-![GameMatch App](https://nanushi.io/projects/gamematch/preview.png)
+![GameMatch App](https://nanushi.org/projects/gamematch/preview.png)
 
 **Description**:
 A social platform for gamers to find teammates, schedule gaming sessions, and track their gaming statistics.
@@ -53,7 +53,7 @@ A social platform for gamers to find teammates, schedule gaming sessions, and tr
 - Performance optimization
 - Accessibility features
 
-[View Case Study →](https://nanushi.io/showcase/gamematch)
+[View Case Study →](https://nanushi.org/showcase/gamematch)
 [GitHub Repository →](https://github.com/nanushi-io/gamematch)
 
 ## Hall of Fame
@@ -82,4 +82,4 @@ A social platform for gamers to find teammates, schedule gaming sessions, and tr
 4. Case study write-up
 5. Team retrospective
 
-[Submit Project →](https://nanushi.io/submit-project)
+[Submit Project →](https://nanushi.org/submit-project)

@@ -31,7 +31,7 @@ This documentation is licensed under [MIT License](./LICENSE).
 
 ## 🔗 Contact
 
-- Website: [nanushi.io](https://nanushi.io)
-- Email: hello@nanushi.io
+- Website: [nanushi.org](https://nanushi.org)
+- Email: hello@nanushi.org
 - Discord: [Join our server](https://discord.gg/nanushi)
 - GitHub: [@nanushi-io](https://github.com/nanushi-io)

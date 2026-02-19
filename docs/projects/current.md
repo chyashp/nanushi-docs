@@ -24,7 +24,7 @@
 - Native device features
 - Performance optimization
 
-[Join Team →](https://nanushi.io/projects/marketplace)
+[Join Team →](https://nanushi.org/projects/marketplace)
 
 ### 🏋️ Fitness Tracking App
 **Status**: Recruiting
@@ -48,7 +48,7 @@
 - Background tasks
 - Local storage
 
-[Join Team →](https://nanushi.io/projects/fitness)
+[Join Team →](https://nanushi.org/projects/fitness)
 
 ### 🌍 Travel Companion App
 **Status**: Starting Soon
@@ -72,7 +72,7 @@
 - Complex state management
 - API optimization
 
-[Join Team →](https://nanushi.io/projects/travel)
+[Join Team →](https://nanushi.org/projects/travel)
 
 ## Upcoming Projects
 
@@ -95,4 +95,4 @@
    - File sharing
    - Calendar integration
 
-[Propose a Project →](https://nanushi.io/propose)
+[Propose a Project →](https://nanushi.org/propose)

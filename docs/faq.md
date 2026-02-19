@@ -93,16 +93,16 @@ Absolutely! We encourage you to showcase your projects and contributions.
 ## Getting Started
 
 ### How do I join?
-1. Sign up at [nanushi.io](https://nanushi.io)
+1. Sign up at [nanushi.org](https://nanushi.org)
 2. Join our Discord community
 3. Complete your profile
 4. Browse available projects
 5. Apply to join a team
 
 ### When do new projects start?
-New projects start every two weeks. Check our [projects page](https://nanushi.io/projects) for upcoming opportunities.
+New projects start every two weeks. Check our [projects page](https://nanushi.org/projects) for upcoming opportunities.
 
 ### Need More Help?
-- Email: hello@nanushi.io
+- Email: hello@nanushi.org
 - Discord: [Join our server](https://discord.gg/nanushi)
 - Twitter: [@nanushi_io](https://twitter.com/nanushi_io)

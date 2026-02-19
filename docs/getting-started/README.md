@@ -20,7 +20,7 @@ Nanushi offers 6-week team projects where you'll:
 ## 🚀 Join a Project
 
 1. **Sign Up**
-   - Create an account at [nanushi.io](https://nanushi.io)
+   - Create an account at [nanushi.org](https://nanushi.org)
    - Join our [Discord community](https://discord.gg/nanushi)
 
 2. **Complete Your Profile**
@@ -89,4 +89,4 @@ Nanushi offers 6-week team projects where you'll:
 - Check our [FAQ](../faq.md)
 - Ask in the #help-and-support Discord channel
 - Contact your team mentor
-- Email us at hello@nanushi.io
+- Email us at hello@nanushi.org
